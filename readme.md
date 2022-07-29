@@ -4,7 +4,7 @@
 
 ### A Landing Page of Restaurant that serves Delicious Food. 🍽️
 
-![Badge](https://img.shields.io/badge/Manas--Ranjan--Murmu-Project1-blue) ![Badge](https://img.shields.io/badge/LCO-Full%20Stack%20Javascript%20Bootcamp-orange) ![](https://img.shields.io/badge/HTML-CSS-green)
+![Badge](https://img.shields.io/badge/Manas--Ranjan--Murmu-Project2-blue) ![Badge](https://img.shields.io/badge/LCO-Full%20Stack%20Javascript%20Bootcamp-orange) ![](https://img.shields.io/badge/HTML-CSS-green)
 
 #### Built Using HTML & CSS (Desktop view Only)
 
@@ -20,7 +20,7 @@
 
 ---
 
-## Live Link [Demo]()
+## Live Link [Demo](https://manas-ranjan-murmu-project2.netlify.app/)
 
 ### Screenshot
 
